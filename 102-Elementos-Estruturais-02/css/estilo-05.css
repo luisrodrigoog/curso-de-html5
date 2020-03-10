@@ -1,0 +1,126 @@
+/** Fase 1 **/
+
+/** Debuger **/
+header, section, footer {
+    border-style: dotted;
+    border-width: thin;
+    border-color: red;
+}
+
+img.imgLogo {
+  height:50px;
+}
+
+/* Transformando a lista de link em uma estrututa horizontal */
+header#pageHeader nav ul, #pageFooter nav ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  margin: 0 0 20px 15px;
+}
+
+p, li {
+  line-height: 20px;
+}
+
+#pageHeader nav ul li, #pageFooter nav ul li {
+  padding: 0;
+  margin: 0 20px 0 0;
+  display: inline;
+}
+
+header#pageHeader {
+  width: 100%;
+}
+
+div.pageLogo {
+  float:left;
+}
+
+div.pageLogoDir {
+  float:right;
+}
+
+.debuger {
+  border-style: solid;
+  border-width: thin;
+  border-color:red;
+}
+
+/** Fase 2 - Menu Principal **/
+nav#menuPrincipal{
+  clear: both;
+}
+
+nav#menuPrincipal,
+footer#pageFooter {
+  background-color: black;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+}
+
+nav#menuPrincipal a,
+footer#pageFooter a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.titleHeader {
+  margin-bottom: 0px;
+  margin-top:0px;
+}
+
+/** Fase 3 **/
+
+/* Ajustando o sidebar */
+section#sidebar {
+  float:left;
+  width:25%;
+}
+
+section#sidebar nav ul li {
+  list-style-type: none;
+}
+
+section#sidebar nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+/** Fase 4  - Footer **/
+footer#pageFooter small {
+  color: #ffffff;
+  font-size: 12px;
+}
+
+footer#pageFooter nav {
+  float:right;
+}
+
+footer#pageFooter nav ul li {
+  font-size: 12px;
+}
+
+/** Fase 5 - Post **/
+
+/* Ajustando os posts */
+section#posts {
+  float:left;
+  width:74%;
+}
+
+/* Ajustando o Rodape  */
+footer#pageFooter {
+  clear:both;
+  width:100%;
+}
+
+section header {
+  border: none;
+  border-bottom-style:solid;
+  border-bottom-width: thin;
+}

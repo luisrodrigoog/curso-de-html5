@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+<!-- Curso de HTML5 - Aula 01 - Estrutura Basica - Exemplo 01 -->
+<html lang="pt-br">
+<head>
+	  <!-- Codificacao da pagina -->
+    <meta charset="UTF-8">
+
+    <!-- Meta Tags -->
+    <meta name="description" content="Curso de HTML5 e CSS#">
+	  <meta name="keywords"    content="HTML,CSS,JavaScript">
+	  <meta name="author"      content="LRodrigo">
+	  <meta name="viewport"    content="width=device-width, initial-scale=1.0">
+  	<!--
+  	<meta http-equiv="refresh" content="30">
+  	-->
+
+  	<!-- CSS -->
+    <!-- Todo arquivo de CSS deve ficar dentro da pasta css -->
+    <link rel="stylesheet" type="text/css" href="css/estilo-padrao.css">
+    <!--
+    <link rel="stylesheet" type="text/css" href="css/estilo-01.css">
+    <link rel="stylesheet" type="text/css" href="css/estilo-02.css">
+    <link rel="stylesheet" type="text/css" href="css/estilo-03.css">
+    <link rel="stylesheet" type="text/css" href="css/estilo-04.css">
+    -->
+    <link rel="stylesheet" type="text/css" href="css/estilo-04.css">
+
+    <!-- Java SScript -->
+    <!--
+    <script type='text/javascript' src='/js/jquery/jquery.js?ver=1.12.4'>
+    </script>
+    -->
+
+    <!-- Icone do Site -->
+  	<link rel="icon" href="img/cropped-Papagaio-direita-32x32.gif" sizes="32x32" />
+
+    <title>HTML 5 - Modelo de Pagina</title>
+</head>
+<body>
+  <!-- Corpo do Documento -->
+  <div class="container">
+    <!-- Inicio do cabecalho -->
+    <header id="pageHeader">
+      <h2>Curso Básico de HTML5 e CSS3</h2>
+      <h3>Prof. Luís Rodrigo</h3>
+      <p>Exemplo de uso dos elementos estruturais</p>
+      <nav id="menuPrincipal">
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Post mais recentes</a></li>
+          <li><a href="#">Arquivo</a></li>
+          <li><a href="#">Contato</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- Fim do Cabecalho -->
+
+    <!--Menu Lateral - Direita-->
+    <section id=sidebar>
+      <nav>
+        <h3> Categorias </h3>
+        <ul>
+          <li><a href="categoria?cat=1">Categoria 1</a></li>
+          <li><a href="categoria?cat=1">Categoria 2</a></li>
+          <li><a href="categoria?cat=1">Categoria 3</a></li>
+          <li><a href="categoria?cat=1">Categoria 4</a></li>
+          <li><a href="categoria?cat=1">Categoria 5</a></li>
+          <li><a href="categoria?cat=1">Categoria 6</a></li>
+        </ul>
+      </nav>
+    </section>
+
+    <!-- Principais posts do site-->
+    <section id=posts>
+      <aticle id="1502" class="post">
+        <header>
+          <h3> Bla bla bla</h3>
+          <p> Publicado por L.Rodrigo em
+            <time datetime="2018-01-10T12:43:56"> 10 de janeiro de 2018 às 12:43</time>
+          </p>
+        </header>
+        <aside>
+          <p> Informações adicionais sobre o post ou sobre o assunto do post </p>
+        </aside>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec ante nec nisl molestie ultricies non sollicitudin mi. Suspendisse aliquet congue lectus non facilisis. Mauris imperdiet ipsum ut sodales euismod. Cras varius, libero nec malesuada eleifend,
+          dolor elit ultrices justo, eu interdum felis lectus ac est. Nullam purus purus, molestie quis blandit id, pretium a leo. Aenean quis ante nec tortor auctor volutpat et ac risus. Morbi id ante tempus, cursus lectus a, consectetur mi. Aenean venenatis
+          pulvinar massa ut finibus. Aenean feugiat consectetur lobortis. Nulla luctus tortor ut tempor consequat. Quisque molestie quis nibh vel tincidunt. Praesent mattis eu ex nec fermentum. Suspendisse nunc elit, tempor euismod lorem ut, eleifend
+          accumsan arcu.
+        </p>
+        <footer>
+          <p><a href="coments?post=1502"> 41 comentários</a></p>
+        </footer>
+        </article>
+    </section>
+
+    <!-- Roda-pé da página -->
+    <footer id="pageFooter">
+      <p> &copy; 2020 – Lrodrigo</p>
+      <nav id=menuRodape>
+        <ul class=menu>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Sobre</a></li>
+          <li><a href="#">Termos de uso</a></li>
+          <li><a href="#">Política de privacidade</a></li>
+        </ul>
+      </nav>
+    </footer>
+
+  <!-- Fim div.container -->
+  </div>
+</body>
+</html>

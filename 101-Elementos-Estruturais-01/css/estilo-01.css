@@ -1,0 +1,6 @@
+
+header, section, footer {
+  border-style: dotted;
+  border-width: thin;
+  border-color: red;
+}
