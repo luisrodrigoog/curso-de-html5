@@ -1,0 +1,62 @@
+
+/** Fase 1 - Ajustando os elementos de cabeçalho **/
+
+h1.titulo {
+  color: #000000;
+  width: 100%;
+  border-bottom-style: solid;
+  border-width: thick;
+  font-size:2.5em;
+}
+
+section.tipo h1 {
+  color: #000033;
+  width: 100%;
+  border-bottom-style: solid;
+  border-width: thin;
+  font-size:2em;
+
+}
+
+section.item h1 {
+  color: #000066;
+  width: 100%;
+  border-bottom-style: dashed;
+  border-width: thin;
+  font-size:1.75em;
+}
+
+section.item h2 {
+  color: #000066;
+  width: 100%;
+  border-bottom-style: dotted;
+  border-width: thin;
+  font-size:1.25em;
+}
+
+
+/** Fase 2 - Lista Horizontal **/
+
+section.item ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+section.item li {
+    float: right;
+}
+
+section.item li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+section.item li a:hover {
+    background-color: #111111;
+}

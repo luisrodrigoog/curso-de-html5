@@ -1,21 +1,25 @@
+/**
+Paleta: https://coolors.co/f7f7f7-bfdbdd-c6f5f7-476a6f-232323
+**/
+
 
 body {
-	background-color: #ECE5CE;
 	margin: 0;
 	padding: 0;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	background-color:#bfdbdd;
+	font-size: 14px;
 }
 
 div.container {
 	width:900px;
 	padding: 10px;
-	margin: 0 auto;
-	background-color: #F2E7BF;
-	
+	margin: 15px auto;
+	background-color:#f7f7f7;
+
 	//border-width: 1px;
 	//border-style: solid;
 	//border-color: #9B5427;
 
-	font-family: sans-serif;
-	font-size: 14px;
-	color: #9B5427;
+	color: #232323;
 }
