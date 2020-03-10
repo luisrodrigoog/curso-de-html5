@@ -4,11 +4,11 @@ Este repositório contem os códigos das páginas utilizadas na aulas de Program
 
 ## Conteúdo
 
-- [000-Modelo](000-Modelo/README.md)
+- [000-Modelo](000-Modelo/) 
     - Código das páginas de modelo utilizadas no curso. Neste pasta estão os CSS básicos, as imagens e os quatro arquivos de modelo.
 
 
 
-
-### Luís Rodrigo - lrodrigo(at)lncc(dot)br 
-### Site: [http://lrodrigo.sgs.lncc.br](http://lrodrigo.sgs.lncc.br)
+## Autor: 
+- Luís Rodrigo - lrodrigo(at)lncc(dot)br 
+- Site: [http://lrodrigo.sgs.lncc.br](http://lrodrigo.sgs.lncc.br)
