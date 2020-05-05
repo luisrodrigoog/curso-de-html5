@@ -1,0 +1,20 @@
+/* Fase 1 - Formatando os subtitulos */
+.subTitulo {
+    /* uppercase lowercase capitalize */
+    text-transform: uppercase;
+
+    /* center left right justify */
+    /* text-align: center; */
+
+    line-height: 1.5;
+
+    /*https://www.w3schools.com/css/css_text_shadow.asp*/
+    text-shadow:2px  2px 5px #c6f5f7;
+
+    color: #213133;
+
+    /*https://www.w3schools.com/css/css_border.asp*/
+    border-bottom-style: groove;
+    border-bottom-width: 3px;
+    border-bottom-color: cadetblue;
+}

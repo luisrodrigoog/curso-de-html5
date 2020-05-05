@@ -1,0 +1,154 @@
+/** HTML5 e CSS3 - Paleta de Cores 1*/
+/**
+    Cores: 
+        Cafe/Castanho           : #774F38 <-> #AA826B<-> #C49C85 <-> #DDB59E  <-> #F6CEB7 <-> #FFE8D1
+        https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#764e37
+
+        Salmao/Pessego          : #AE5C47 <-> #E18F7A <-> #FAA893 <-> #FFC1AC <-> #FFDBC6 <-> #FFF5E0
+        https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#94422e
+        
+        Rose/Bege               : #583B0E <-> #A5885B <-> #BEA174 <-> #D7BA8D <-> #F1D4A7 <-> #FFEEC1
+        https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#583a0e
+
+        Palha/Creme             : #534C35 <-> #867F68 <-> #A09982 <-> #B9B29B <-> #D2CBB4 <-> #ECE5CE
+        https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#544d36 
+
+        Azul Bebe/Esverdeado    : #2C4743 <-> #5F7A76 <-> #799490 <-> #92ADA9 <-> #ABC6C2 <-> #C5E0DC
+        https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#2d4844
+
+        Azul Ceu/Piscina        : #00253D <-> #335870 <-> #668BA3 <-> #7FA4BC <-> #99BED6 <-> #B3D8F0
+        https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#00253d
+ **/
+
+/** 
+    Primeira Cor - Cafe/Castanho 
+    #774F38 <-> #AA826B<-> #C49C85 <-> #DDB59E  <-> #F6CEB7 <-> #FFE8D1
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#e8bba1
+**/
+.cor1{ color: #774F38; }
+.bgCor1 { background-color: #774F38; }
+
+.cor1a{ color: #AA826B; }
+.bgCor1a { background-color: #AA826B; }
+
+.cor1b{ color: #C49C85; }
+.bgCor1b { background-color: #C49C85; }
+
+.cor1c{ color: #DDB59E; }
+.bgCor1c { background-color: #DDB59E; }
+
+.cor1d{ color: #F6CEB7; }
+.bgCor1d { background-color: #F6CEB7; }
+
+.cor1e{ color: #FFE8D1; }
+.bgCor1e { background-color: #FFE8D1; }
+
+/** 
+    Segunda Cor - Salmao/Pessego
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#e5d9cd
+**/
+.cor2{ color: #AE5C47; }
+.bgCor2 { background-color: #AE5C47; }
+
+.cor2a{ color: #E18F7A; }
+.bgCor2a { background-color: #E18F7A; }
+
+.cor2b{ color: #FAA893; }
+.bgCor2b { background-color: #FAA893; }
+
+.cor2c{ color: #FFC1AC; }
+.bgCor2c { background-color: #FFC1AC; }
+
+.cor2d{ color: #FFDBC6; }
+.bgCor2d { background-color: #FFDBC6; }
+
+.cor2e{ color: #FFF5E0; }
+.bgCor2e { background-color: #FFF5E0; }
+
+/** 
+    Terceira Cor - Rose/Bege
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#b2b2a3
+**/
+.cor3{ color: #583B0E; }
+.bgCor3 { background-color: #583B0E; }
+
+.cor3a{ color: #A5885B; }
+.bgCor3a { background-color: #A5885B; }
+
+.cor3b{ color: #BEA174; }
+.bgCor3b { background-color: #BEA174; }
+
+.cor3c{ color: #D7BA8D; }
+.bgCor3c { background-color: #D7BA8D; }
+
+.cor3d{ color: #F1D4A7; }
+.bgCor3d { background-color: #F1D4A7; }
+
+.cor3e{ color: #FFEEC1; }
+.bgCor3e { background-color: #FFEEC1; }
+
+/** 
+    Quarta Cor - Palha/Creme 
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#6d7873
+**/
+.cor4{ color: #534C35; }
+.bgCor4 { background-color: #534C35; }
+
+.cor4a{ color: #867F68; }
+.bgCor4a { background-color: #867F68; }
+
+.cor4b{ color: #A09982; }
+.bgCor4b { background-color: #A09982; }
+
+.cor4c{ color: #B9B29B; }
+.bgCor4c { background-color: #B9B29B; }
+
+.cor4d{ color: #D2CBB4; }
+.bgCor4d { background-color: #D2CBB4; }
+
+.cor4e{ color: #ECE5CE; }
+.bgCor4e { background-color: #ECE5CE; }
+
+/**
+    Quita Cor - Azul Bebe/Esverdeado 
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#3f3931
+**/
+.cor5{ color: #2C4743; }
+.bgCor5 { background-color: #2C4743; }
+
+.cor5a{ color: #5F7A76; }
+.bgCor5a { background-color: #5F7A76; }
+
+.cor5b{ color: #799490; }
+.bgCor5b { background-color: #799490; }
+
+.cor5c{ color: #92ADA9; }
+.bgCor5c { background-color: #92ADA9; }
+
+.cor5d{ color: #ABC6C2; }
+.bgCor5d { background-color: #ABC6C2; }
+
+.cor5e{ color: #C5E0DC; }
+.bgCor5e { background-color: #C5E0DC; }
+
+/**
+    Sexta Cor Azul - Ceu/Piscina 
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#3f3931
+**/
+.cor6{ color: #00253D; }
+.bgCor6 { background-color: #00253D; }
+
+.cor6a{ color: #335870; }
+.bgCor6a { background-color: #335870; }
+
+.cor6b{ color: #668BA3; }
+.bgCor6b { background-color: #668BA3; }
+
+.cor6c{ color: #7FA4BC; }
+.bgCor6c { background-color: #7FA4BC; }
+
+.cor6d{ color: #99BED6; }
+.bgCor6d { background-color: #99BED6; }
+
+.cor6e{ color: #B3D8F0; }
+.bgCor6e { background-color: #B3D8F0; }

@@ -1,0 +1,97 @@
+/**
+Paleta: https://coolors.co/f7f7f7-bfdbdd-c6f5f7-476a6f-232323
+Paleta Alternativa: https://coolors.co/ceec97-fadccd-fc60a8-7a28cb-494368
+**/
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	/*background-color:#bfdbdd;*/
+	background-color: #494368;
+	font-size: 14px;
+}
+
+div.container {
+	width:900px;
+	padding: 10px;
+	margin: 15px auto;
+	/*background-color:#f7f7f7;*/
+	background-color: #fadccd;
+	color: #232323;
+}
+
+/** Formatar o Header e o Footer **/
+img.imgLogo {
+	height: 50px;
+}
+
+#pageHeader nav ul, 
+#pageFooter nav ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#pageHeader nav ul li, 
+#pageFooter nav ul li{
+	padding: 0px;
+	margin: 0 20px 0 0;
+	display: inline;
+}
+
+#pageHeader {
+	width: 100%;
+}
+
+div.pageLogo {
+	float:left;
+}
+
+div.pageLogoDir {
+	float:right;
+}
+
+.titleHeader {
+	margin-top:0px;
+	margin-bottom: 0px;
+}
+
+nav#menuPrincipal {
+	clear: both;
+}
+
+nav#menuPrincipal, 
+#pageFooter {
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+nav#menuPrincipal a, 
+#pageFooter a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+#pageFooter small {
+	color: #ffffff;
+	font-size: 12px;
+}
+
+#pageFooter nav {
+	float: right;
+}
+
+#pageFooter nav ul li {
+	font-size: 12px;
+}
+
+p {
+	margin: 0 0 20px 15px;
+}
+
+p, li {
+	line-height: 20px;
+}
+

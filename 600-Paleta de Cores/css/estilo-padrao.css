@@ -1,0 +1,166 @@
+/**
+Paleta: https://coolors.co/f7f7f7-bfdbdd-c6f5f7-476a6f-232323
+**/
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	background-color:#bfdbdd;
+	font-size: 14px;
+}
+
+div.container {
+	width:900px;
+	padding: 10px;
+	margin: 15px auto;
+	background-color:#f7f7f7;
+	color: #232323;
+}
+
+/* Elementos do Cabeçalho e do Roda-pe da Página */
+
+#pageHeader {
+	width: 100%;
+}
+
+img.imgLogo {
+	height:50px;
+}
+
+div.pageLogo {
+	float:left;
+  }
+  
+div.pageLogoDir {
+	float:right;
+  }
+
+nav#menuPrincipal{
+	clear: both;
+}
+  
+#pageHeader nav ul, 
+#pageFooter nav ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#pageHeader nav ul li, 
+#pageFooter nav ul li {
+	padding: 0;
+	margin: 0 20px 0 0;
+	display: inline;
+}
+  
+#menuPrincipal,
+#pageFooter {
+  background-color: black;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+}
+
+#menuPrincipal a,
+#pageFooter a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+/* Elementos do Titulo*/
+.titleHeader {
+	margin-bottom: 0px;
+	margin-top:0px;
+  }
+  
+footer#pageFooter small {
+	color: #ffffff;
+	font-size: 12px;
+}
+
+footer#pageFooter nav {
+	float:right;
+}
+
+footer#pageFooter nav ul li {
+	font-size: 12px;
+}
+  
+footer#pageFooter {
+	clear:both;	
+}
+
+/* Section CORPO */
+#corpoDaPagina {
+
+	border-style: dashed;
+	border-width: thin;
+	border-color: black;
+
+	padding: 10px;
+}
+
+
+/* DIVs */
+
+.borda {
+	border-style:solid;
+	border-width: 1px;
+	border-color: #000;
+}
+
+.linha {
+	width:100%;
+	margin:0;
+	padding: 0;
+	clear: both;
+	box-sizing: border-box;
+}
+
+.col16  {
+	width:16.66%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.col12 {
+	width:50%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.col13 {
+	width:33%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.col14  {
+	width:25%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.col15  {
+	width:20%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.clear{clear:both;}
+
+.espacoInf {padding-bottom: 20px;}
+
+
+/* */
+p.sub {
+	padding-top:10px;
+    font-weight: bold;
+    color: brown;
+    border-bottom-style: solid;
+}

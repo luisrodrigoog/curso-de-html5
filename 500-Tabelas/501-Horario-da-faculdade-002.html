@@ -1,0 +1,151 @@
+<!DOCTYPE HTML>
+
+<!-- Curso de HTML5 - Aula 01 - Estrutura Basica - Exemplo 01 -->
+<html lang="pt-br">
+<head>
+    <!-- Codificacao da pagina -->
+    <meta charset="UTF-8">
+
+    <!-- Meta Tags -->
+    <meta name="description" content="Curso de HTML5 e CSS3">
+    <meta name="keywords"    content="HTML,CSS,JavaScript">
+    <meta name="author"      content="LRodrigo">
+    <meta name="viewport"    content="width=device-width, initial-scale=1.0">
+  	<!--
+  	<meta http-equiv="refresh" content="30">
+  	-->
+
+  	<!-- CSS -->
+    <!-- Todo arquivo de CSS deve ficar dentro da pasta css -->
+    <link rel="stylesheet" type="text/css" href="css/estilo-padrao.css">
+    <link rel="stylesheet" type="text/css" href="css/estilo-horario04.css">
+
+    <!-- Icone do Site -->
+  	<link rel="icon" href="img/cropped-Papagaio-direita-32x32.gif" sizes="32x32" />
+
+    <title>HTML 5 - Tabelas</title>
+</head>
+<body>
+  <!-- Corpo do Documento -->
+  <div class="container">
+
+    <!-- Header da Pagina -->
+    <header id="pageHeader">
+
+      <div class="pageLogo">        
+        <img class="imgLogo" src="img/logo-esq.png">
+      </div>
+
+      <div class="pageLogoDir">
+        <img class="imgLogo" src="img/logo-dir.png">
+      </div>
+
+      <hgroup class="titleGroup">
+          <h2 class="titleHeader">Curso Básico de HTML5 e CSS3</h2>
+          <h3 class="titleHeader"> Prof. Luís Rodrigo</h3>
+      </hgroup>
+
+      <nav id="menuPrincipal">
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Post mais recentes</a></li>
+          <li><a href="#">Arquivo</a></li>
+          <li><a href="#">Contato</a></li>
+        </ul>
+      </nav>
+    </header>
+    <section id="corpoDaPagina">
+      <article>
+        <h4 class="subTitulo">Horário Simples</h4>
+
+        <table class="horario">
+          <caption>Quadro de Horário</caption>
+          <thead>
+              <tr>
+                <th>Horário</th><th>Segunda</th>
+                <th>Terça</th><th>Quarta</th>
+                <th>Quita</th><th>Sexta</th>
+                <th>Sábado</th>
+              </tr>
+          </thead>
+          <tfoot>
+              <tr>
+                  <th>Horário</th><th>Segunda</th>
+                  <th>Terça</th><th>Quarta</th>
+                  <th>Quita</th><th>Sexta</th>
+                  <th>Sábado</th>
+              </tr>
+          </tfoot>
+          <tbody>
+              <tr>
+                  <th>17:20</th>
+                  <td></td><td></td><td></td>
+                  <td></td><td></td><td></td>                           
+              </tr>
+              <tr>
+                  <th>18:10</th>
+                  <td></td><td></td><td></td>
+                  <td></td><td></td><td></td>  
+              </tr>
+              <tr>
+                  <th>19:00</th>
+                  <td></td><td></td><td></td>
+                  <td></td><td></td><td></td>                           
+              </tr>
+              <tr>
+                  <th>19:50</th>
+                  <td></td><td></td><td></td>
+                  <td></td><td></td><td></td>                           
+              </tr>
+              <tr>
+                  <th>20:40</th>
+                  <td>Intervalo</td>
+                  <td>Intervalo</td>
+                  <td>Intervalo</td>
+                  <td>Intervalo</td>
+                  <td>Intervalo</td>
+                  <td>Intervalo</td>                            
+              </tr>
+              <tr>
+                  <th>20:50</th>
+                  <td></td><td></td><td></td>
+                  <td></td><td></td><td></td>                           
+              </tr>
+               <tr>
+                  <th>21:40</th>
+                  <td></td><td></td><td></td>
+                  <td></td><td></td><td></td>                           
+              </tr>
+               <tr>
+                  <th>22:30</th>
+                  <td>Termino</td>
+                  <td>Termino</td>
+                  <td>Termino</td>
+                  <td>Termino</td>
+                  <td>Termino</td>
+                  <td>Termino</td>                            
+              </tr>
+          </tbody>
+      </table>
+
+
+      </article>
+    </section>
+
+
+    <footer id="pageFooter">
+      <small> &copy; 2020 – Lrodrigo </small>
+      <nav id="menuRodape">
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Sobre</a></li>
+          <li><a href="#">Termos de uso</a></li>
+          <li><a href="#">Política de privacidade</a></li>
+        </ul>
+      </nav>
+    </footer>
+
+  <!-- Fim div.container -->
+  </div>
+</body>
+</html>

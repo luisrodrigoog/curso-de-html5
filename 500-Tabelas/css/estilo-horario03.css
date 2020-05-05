@@ -1,0 +1,73 @@
+/* Fase 1  Formatando os subtitulos */
+.subTitulo {
+    /* uppercase lowercase capitalize */
+    text-transform: uppercase;
+
+    /* center left right justify */
+    /* text-align: center; */
+
+    line-height: 1.5;
+
+    /*https://www.w3schools.com/css/css_text_shadow.asp*/
+    text-shadow:2px  2px 5px #c6f5f7;
+
+    color: #213133;
+
+    /*https://www.w3schools.com/css/css_border.asp*/
+    border-bottom-style: groove;
+    border-bottom-width: 3px;
+    border-bottom-color: cadetblue;
+}
+
+/* Fase 1 - Adicionadno bordas as tebelas */
+table.horario {
+    width:100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table.horario tr {
+    border: 1px solid black;
+}
+
+table.horario td,
+table.horario th{
+    border: 1px solid black;
+}
+
+/* Fase 2 - Tabela - Ajustando os espaços */
+
+/* Adicionando espaço entre o conteúdo das
+celulas e as bordas */
+table.horario th,
+table.horario td {
+    padding: 15px;
+}
+
+/*Alimhando os cabeçalhos à esquerda*/
+table.horario th {
+    text-align: left;
+}
+
+/* Fase 3 */
+
+/* Formarando o Caption da Tabela */
+table.horario caption {
+    font-weight: bolder;
+    color:cornflowerblue;
+    text-align: right;
+    padding-bottom: 10px;
+}
+
+/* Formatando as celulas de cabeçalho */
+
+table.horario thead th,
+table.horario tfoot th,
+table.horario tbody th{
+    background-color: royalblue;
+    //color: darksalmon;
+    color: antiquewhite;
+    font-weight: lighter;
+    padding: 5px;
+    border:none;
+}

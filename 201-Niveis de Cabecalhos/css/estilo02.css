@@ -34,9 +34,7 @@ section.item h2 {
   font-size:1.25em;
 }
 
-
 /** Fase 2 - Lista Horizontal **/
-
 section.item ul{
   list-style-type: none;
   margin: 0;

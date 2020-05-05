@@ -1,0 +1,225 @@
+/** HTML5 e CSS3 - Paleta de Cores 1*/
+/**
+    Cores: 
+        Cafe/Castanho           : #9B5427 <--> #774F38
+        Salmao/Pessego          : #E99655 <--> #E08E79
+        Rose/Bege               : #F5D797 <--> #F1D4A7
+        Palha/Creme             : #F2E7BF <--> #ECE5CE
+        Azul Bebe/Esverdeado    : #D6E2D2 <--> #C5E0DC
+        Azul Ceu/Piscina        : #5EC2Ca <--> #48BED6
+ **/
+
+/** 
+    Primeira Cor 
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#e8bba1
+**/
+ .cor1{
+     color: #774F38;
+ }
+ 
+ .bgCor1 {
+     background-color: #774F38;
+ }
+
+ .cor1a{
+    color: #603F28;
+}
+
+.bgCor1a {
+    background-color: #603F28;
+}
+
+.cor1b{
+    color: #4E3221;
+}
+
+.bgCor1b {
+    background-color: #4E3221;
+}
+
+.cor1c{
+    color: #2E1D10;
+}
+
+.bgCor1c {
+    background-color: #2E1D10;
+}
+
+/** 
+    Segunda Cor 
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#e5d9cd
+**/
+.cor2 {
+    color: #E08E79;
+}
+
+.bgCor2 {
+    background-color: #E08E79;
+}
+
+.cor2a{
+    color: #DA775E;
+}
+
+.bgCor2a {
+    background-color: #DA775E;
+}
+
+.cor2b{
+    color: #D56548;
+}
+
+.bgCor2b {
+    background-color: #D56548;
+}
+
+.cor2c{
+    color: #CB4522;
+}
+
+.bgCor2c {
+    background-color: #CB4522;
+}
+
+/** 
+    Terceira Cor 
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#b2b2a3
+**/
+.cor3 {
+    color: #F1D4AF;
+}
+
+.bgCor3 {
+    background-color: #F1D4AF;
+}
+
+.cor3a {
+    color: #EECB9D;
+}
+
+.bgCor3a {
+    background-color: #EECB9D;
+}
+
+.cor3b {
+    color: #ECC48F;
+}
+
+.bgCor3b {
+    background-color: #ECC48F;
+}
+
+.cor3c {
+    color: #E8B876;
+}
+
+.bgCor3c {
+    background-color: #E8B876;
+}
+
+
+/** 
+    Quarta Cor 
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#6d7873
+**/
+.cor4 {
+    color: #ECE5C3;
+}
+
+.bgCor4 {
+    background-color: #ECE5C3;
+}
+
+.cor4a {
+    color: #E8E0C3;
+}
+
+.bgCor4a {
+    background-color: #E8E0C3;
+}
+
+.cor4b {
+    color: #E5DCBA;
+}
+
+.bgCor4b {
+    background-color: #E5DCBA;
+}
+
+.cor4c {
+    color: #E0D4AB;
+}
+
+.bgCor4c {
+    background-color: #E0D4AB;
+}
+
+/**
+    Quita Cor
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#3f3931
+**/
+.cor5 {
+    color: #C5E0DC;
+}
+
+.bgCor5 {
+    background-color: #C5E0DC;
+}
+
+.cor5a {
+    color: #BADAD4;
+}
+
+.bgCor5a {
+    background-color: #BADAD4;
+}
+
+.cor5b {
+    color: #B1D5CE;
+}
+
+.bgCor5b {
+    background-color: #B1D5CE;
+}
+.cor5c {
+    color: #A1CCC3;
+}
+
+.bgCor5c {
+    background-color: #A1CCC3;
+}
+
+/**
+    Sexta Cor
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#3f3931
+**/
+.cor6 {
+    color: #48BED6;
+}
+
+.bgCor6 {
+    background-color: #48BED6;
+}
+
+.cor6a {
+    color: #3AB1CD;
+}
+
+.bgCor6a {
+    background-color: #3AB1CD;
+}
+
+.cor6b {
+    color: #2FA6C6;
+}
+
+.bgCor6b {
+    background-color: #2FA6C6;
+}
+.cor6c {
+    color: #1C94B9;
+}
+
+.bgCor6c {
+    background-color: #1C94B9;
+}

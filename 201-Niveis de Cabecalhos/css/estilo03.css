@@ -1,6 +1,4 @@
-
 /** Fase 1 - Ajustando os elementos de cabeçalho **/
-
 h1.titulo {
   color: #3b575b;
   width: 100%;
@@ -34,9 +32,7 @@ section.item h2 {
   font-size:1.25em;
 }
 
-
 /** Fase 2 - Lista Horizontal **/
-
 section.item ul{
   list-style-type: none;
   margin: 0;

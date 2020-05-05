@@ -1,0 +1,155 @@
+/** HTML5 e CSS3 - Paleta de Cores 1*/
+/**
+    Cores: 
+        Cafe/Castanho           : #9B5427 <--> #774F38
+        Salmao/Pessego          : #E99655 <--> #E08E79
+        Rose/Bege               : #F5D797 <--> #F1D4A7
+        Palha/Creme             : #F2E7BF <--> #ECE5CE
+        Azul Bebe/Esverdeado    : #D6E2D2 <--> #C5E0DC
+        Azul Ceu/Piscina        : #5EC2Ca <--> #48BED6
+ **/
+
+/** 
+    Primeira Cor 
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#e8bba1
+**/
+ .cor1{
+     color: #E7BAA0;
+ }
+ 
+ .bgCor1 {
+     background-color: #E7BAA0;
+ }
+
+ .cor1a{
+    color: #B4876D;
+}
+
+.bgCor1a {
+    background-color: #CEA187;
+}
+
+.cor1b{
+    color: #CEA187;
+}
+
+.bgCor1b {
+    background-color: #B4876D;
+}
+
+
+
+/** 
+    Segunda Cor 
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#e5d9cd
+**/
+.cor2 {
+    color: #E5DACE;
+}
+
+.bgCor2 {
+    background-color: #E5DACE;
+}
+
+.cor2a{
+    color: #CCC1B5;
+}
+
+.bgCor2a {
+    background-color: #CCC1B5;
+}
+
+.cor2b{
+    color: #B2A79B;
+}
+
+.bgCor2b {
+    background-color: #B2A79B;
+}
+
+/** 
+    Terceira Cor 
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#b2b2a3
+**/
+.cor3 {
+    color: #B2B2A2;
+}
+
+.bgCor3 {
+    background-color: #B2B2A2;
+}
+
+.cor3a {
+    color: #999989;
+}
+
+.bgCor3a {
+    background-color: #999989;
+}
+
+.cor3b {
+    color: #7F7F6F;
+}
+
+.bgCor3b {
+    background-color: #7F7F6F;
+}
+
+
+
+/** 
+    Quarta Cor 
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#6d7873
+**/
+.cor4 {
+    color: #6D7973;
+}
+
+.bgCor4 {
+    background-color: #6D7973;
+}
+
+.cor4a {
+    color: #6D7973;
+}
+
+.bgCor4a {
+    background-color: #54605A;
+}
+
+
+.cor4b {
+    color: #3A4640;
+}
+
+.bgCor4b {
+    background-color: #3A4640;
+}
+
+/**
+    Quita Cor
+    https://www.hexcolortool.com/?_ga=2.81780372.223235185.1540071234-925096506.1540071234#3f3931
+**/
+.cor5 {
+    color: #A59F97;
+}
+
+.bgCor5 {
+    background-color: #A59F97;
+}
+
+.cor5a {
+    color: #726C64;
+}
+
+.bgCor5a {
+    background-color: #726C64;
+}
+
+.cor5b {
+    color: #3F3931;
+}
+
+.bgCor5b {
+    background-color: #3F3931;
+}
