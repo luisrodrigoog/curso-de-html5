@@ -45,8 +45,13 @@ table.horario td {
 }
 
 /*Alimhando os cabeçalhos à esquerda*/
-table.horario th {
+table.horario tbody th {
     text-align: left;
+}
+
+table.horario thead th,
+table.horario tfoot th{
+    text-align: center;
 }
 
 /* Fase 3 */
@@ -57,6 +62,7 @@ table.horario caption {
     color:cornflowerblue;
     text-align: right;
     padding-bottom: 10px;
+    font-size: 24px;
 }
 
 /* Formatando as celulas de cabeçalho */
@@ -65,9 +71,9 @@ table.horario thead th,
 table.horario tfoot th,
 table.horario tbody th{
     background-color: royalblue;
-    //color: darksalmon;
+    /*color: darksalmon;*/
     color: antiquewhite;
     font-weight: lighter;
-    padding: 5px;
+    /*padding: 5px;*/
     border:none;
 }
