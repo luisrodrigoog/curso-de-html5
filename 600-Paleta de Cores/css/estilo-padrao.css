@@ -100,8 +100,19 @@ footer#pageFooter {
 	padding: 10px;
 }
 
+/**
+	Parte 2 - DIVS 
+**/
 
-/* DIVs */
+
+/*Fase 1 */
+p.sub {
+	padding-top:10px;
+    font-weight: bold;
+    /*color: brown;*/
+	border-bottom-style: solid;
+	font-family: Ubuntu;
+}
 
 .borda {
 	border-style:solid;
@@ -117,19 +128,12 @@ footer#pageFooter {
 	box-sizing: border-box;
 }
 
-.col16  {
-	width:16.66%;
-	float: left;
-	padding: 20px;
-	box-sizing: border-box;
-}
 
-.col12 {
-	width:50%;
-	float: left;
-	padding: 20px;
-	box-sizing: border-box;
-}
+/*Fase 2*/
+
+.clear{clear:both;}
+
+.espacoInf {padding-bottom: 20px;}
 
 .col13 {
 	width:33%;
@@ -152,15 +156,11 @@ footer#pageFooter {
 	box-sizing: border-box;
 }
 
-.clear{clear:both;}
-
-.espacoInf {padding-bottom: 20px;}
-
-
-/* */
-p.sub {
-	padding-top:10px;
-    font-weight: bold;
-    color: brown;
-    border-bottom-style: solid;
+.col16  {
+	width:16.66%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
 }
+*/
+

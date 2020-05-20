@@ -1,0 +1,59 @@
+/**
+
+    - Orange    - #DB5200
+        - #FF720C
+        - #FF912F
+    - Cultured  - #474747
+        - #8D8D8D
+        - #D4D4D4
+    - Silver    - #464E5B
+        - #697481
+        - #8F9AA4
+    - Queen     - #2E598E
+        - #4A7DAE
+        - #699AC0
+    - USAFA     - #00276E
+        - #003E87
+        - #5794C1
+
+**/
+
+/* Orange */
+.cor1 { color: #DB5200; }
+.bgCor1 { background-color: #DB5200;}
+.cor1a { color: #FF720C }
+.bgCor1a {background-color:#FF720C;}
+.cor1b { color: #FF912F;}
+.bgCor1b { background-color: #FF912F ;}
+
+/* Cultured */
+.cor2 { color: #474747; }
+.bgCor2 { background-color: #474747;}
+.cor2a { color: #8D8D8D }
+.bgCor2a {background-color:#8D8D8D;}
+.cor2b { color: #D4D4D4;}
+.bgCor2b { background-color: #D4D4D4;}
+
+/* Silver */
+.cor3 { color: #464E5B; }
+.bgCor3 { background-color: #464E5B;}
+.cor3a { color: #697481 }
+.bgCor3a {background-color:#697481;}
+.cor3b { color: #8F9AA4;}
+.bgCor3b { background-color: #8F9AA4;}
+
+/* Queen */
+.cor4 { color: #2E598E; }
+.bgCor4 { background-color: #2E598E;}
+.cor4a { color: #4A7DAE }
+.bgCor4a {background-color:#4A7DAE;}
+.cor4b { color: #699AC0;}
+.bgCor4b { background-color: #699AC0;}
+
+/* USAFA */
+.cor5 { color: #00276E; }
+.bgCor5 { background-color: #00276E;}
+.cor5a { color: #003E87 }
+.bgCor5a {background-color:#003E87;}
+.cor5b { color: #5794C1;}
+.bgCor5b { background-color: #5794C1;}
