@@ -1,0 +1,82 @@
+/**
+    URL: https://coolors.co/cb997e-eddcd2-fff1e6-f0efeb-ddbea9-a5a58d-b7b7a4
+
+    - Sienna  --------------- #370F0D; #683D32; #CB997E; #EBDBD6;
+    - Raisin  --------------- #261615; #52423F; #7F6E69; #D7C6BD;
+    - Jet ------------------- #32302F; #61605E; #918F8D; #C0BFBC;
+    - Sienna2---------------- #200202; #290D0C; #432A28; #978582;
+    - Smoky  ---------------- #13120E; #34332A; #858471; #B7B79F;
+    - Smoky2 ---------------- #151310; #393831; #6F6E62; #A5A594;
+**/
+
+.branco {color:white;}
+.bgBranco {background-color: white;}
+.bdBranco {border-color: white;}
+
+/* - Sienna  --------------- #370F0D; #683D32; #683D32; #CB997E; */
+.cor1 { color: #370F0D;}
+.bgCor1 { background-color: #370F0D;}
+.bdCor1 { border-color: #370F0D;}
+
+.cor1a { color: #683D32;}
+.bgCor1a {background-color:#683D32;}
+.bdCor1a { border-color: #683D32;}
+
+.cor1b { color: #CB997E;}
+.bgCor1b { background-color: #CB997E;}
+.bdCor1b { border-color: #CB997E;}
+
+.cor1c { color: #EBDBD6;}
+.bgCor1c { background-color: #EBDBD6;}
+.bdCor1c { border-color: #EBDBD6;}
+
+/* - Raisin  --------------- #261615; #52423F; #7F6E69; #D7C6BD; */
+.cor2 { color: #261615;}
+.bgCor2 { background-color: #261615;}
+.bdCor2 { border-color: #261615;}
+
+.cor2a { color: #52423F;}
+.bgCor2a {background-color:#52423F;}
+.bdCor2a { border-color: #52423F;}
+
+.cor2b { color: #7F6E69;}
+.bgCor2b { background-color: #7F6E69;}
+.bdCor2b { border-color: #7F6E69;}
+
+.cor2c { color: #D7C6BD;}
+.bgCor2c { background-color: #D7C6BD;}
+.bdCor2c { border-color: #D7C6BD;}
+
+/* - Jet ------------------- #32302F; #61605E; #918F8D; #C0BFBC; */
+.cor3 { color: #32302F;}
+.bgCor3 { background-color: #32302F;}
+.bdCor3 { border-color: #32302F;}
+
+.cor3a { color: #61605E;}
+.bgCor3a {background-color:#61605E;}
+.bdCor3a { border-color: #61605E;}
+
+.cor3b { color: #918F8D;}
+.bgCor3b { background-color: #918F8D;}
+.bdCor3b { border-color: #918F8D;}
+
+.cor3c { color: #C0BFBC;}
+.bgCor3c { background-color: #C0BFBC;}
+.bdCor3c { border-color: #C0BFBC;}
+
+/* Sienna2 ---------------- #200202; #290D0C; #432A28; #978582; */
+.cor4 { color: #200202;}
+.bgCor4 { background-color: #200202;}
+.bdCor4 { border-color: #200202;}
+
+.cor4a { color: #290D0C;}
+.bgCor4a {background-color:#290D0C;}
+.bdCor4a { border-color: #290D0C;}
+
+.cor4b { color: #432A28;}
+.bgCor4b { background-color: #432A28;}
+.bdCor4b { border-color: #432A28;}
+
+.cor4c { color: #978582;}
+.bgCor4c { background-color: #978582;}
+.bdCor4c { border-color: #978582;}
