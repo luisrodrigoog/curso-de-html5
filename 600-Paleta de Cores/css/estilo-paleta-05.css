@@ -1,0 +1,155 @@
+/**
+    Paleta de Cores
+
+    Arq: estilo-paleta-05.css
+
+    Referencia: 
+        https://coolors.co/fdd8da-f3722c-f8961e-fee4d7-f9c74f-d4e6c7-43aa8b-cae2e2-577590-def0f7
+    
+    1) Cores Basicas
+        1) CGBlue      - #277DA1        
+            1a          - #184C63 
+            1b          - #277DA1
+            1c          - #DEF0F7
+            
+        2) Cadet Blue  - #4D908E        
+            2a          - #325D5B
+            2b          - #4D908E
+            2c          - #CAE2E2
+            
+        3) Pistachio   - #90BE6D        
+            3a          - #3A5426
+            3b          - #90BE6D 
+            3c          - #D4E6C7         
+                    
+        4) Mango Tango - #F9844A        
+            4a          - #F9844A
+            4b          - #FCBC9C
+            4c          - #FEE4D7
+            
+        5) Red Salsa   - #F94144        
+            5a          - #F81215 
+            5b          - #F94144
+            5c          - #FDD8DA
+**/
+
+/*1a - #184C63*/
+.cor1a { color: #184C63;}
+.bgCor1a { background-color: #184C63;}
+.bdCor1a { border-color: #184C63;}
+
+/* 1b - #277DA1 */
+.cor1b { color: #277DA1;}
+.bgCor1b { background-color: #277DA1;}
+.bdCor1b { border-color: #277DA1;}
+
+/* 1c - #DEF0F7 */
+.cor1c { color: #DEF0F7;}
+.bgCor1c { background-color: #DEF0F7;}
+.bdCor1c { border-color: #DEF0F7;}
+
+/* 2a - #325D5B */
+.cor2a { color: #325D5B;}
+.bgCor2a { background-color: #325D5B;}
+.bdCor2a { border-color: #325D5B;} 
+    
+/* 2b - #4D908E */
+.cor2b { color: #4D908E;}
+.bgCor2b { background-color: #4D908E;}
+.bdCor2b { border-color: #4D908E;} 
+       
+/* 2c - #CAE2E2 */
+.cor2c { color: #CAE2E2;}
+.bgCor2c { background-color: #CAE2E2;}
+.bdCor2c { border-color: #CAE2E2;}  
+
+/* 3a - #3A5426 */
+.cor3a { color: #3A5426;}
+.bgCor3a { background-color: #3A5426;}
+.bdCor3a { border-color: #3A5426;}  
+
+/* 3b - #90BE6D */
+.cor3b { color: #90BE6D;}
+.bgCor3b { background-color: #90BE6D;}
+.bdCor3b { border-color: #90BE6D;}  
+
+/* 3c - #D4E6C7 */
+.cor3c { color: #D4E6C7;}
+.bgCor3c { background-color: #D4E6C7;}
+.bdCor3c { border-color: #D4E6C7;}  
+
+/* 4a - #F9844A */
+.cor4a { color: #F9844A;}
+.bgCor4a { background-color: #F9844A;}
+.bdCor4a { border-color: #F9844A;}  
+
+/* 4b - #FCBC9C */
+.cor4b { color: #FCBC9C;}
+.bgCor4b { background-color: #FCBC9C;}
+.bdCor4b { border-color: #FCBC9C;}  
+            
+/* 4c - #FEE4D7 */
+.cor4c { color: #FEE4D7;}
+.bgCor4c { background-color: #FEE4D7;}
+.bdCor4c { border-color: #FEE4D7;}
+
+/* 5a - #F81215  */
+.cor5a { color: #F81215;}
+.bgCor5a { background-color: #F81215;}
+.bdCor5a { border-color: #F81215;}
+
+/* 5b - #F94144  */
+.cor5b { color: #F94144;}
+.bgCor5b { background-color: #F94144;}
+.bdCor5b { border-color: #F94144;}
+
+/* 5c - #FDD8DA  */
+.cor5c { color: #FDD8DA;}
+.bgCor5c { background-color: #FDD8DA;}
+.bdCor5c { border-color: #FDD8DA;}
+
+/* Branco */
+.branco {color:white;}
+.bgBranco {background-color: white;}
+.bdBranco {border-color: white;}
+
+/* Preto */
+.preto {color: black;}
+.bgPreto {background-color: black;}
+.bdPreto {border-color: black;}
+
+/* Colunas e espaços */
+
+.clear{clear:both;}
+
+.espacoInf {padding-bottom: 20px;}
+
+.col13 {
+	width: 33%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.col14  {
+	width: 25%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.col15  {
+	width: 20%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.col16  {
+	width: 16.66%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+
