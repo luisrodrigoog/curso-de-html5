@@ -1,0 +1,142 @@
+<!DOCTYPE HTML>
+<!-- Curso de HTML5 - Aula 01 - Estrutura Basica - Exemplo 01 -->
+<html lang="pt-br">
+<head>
+  <!-- Codificacao da pagina -->
+  <meta charset="UTF-8">
+  <!-- Meta Tags -->
+  <meta name="description" content="Curso de HTML5 e CSS3">
+  <meta name="keywords"    content="HTML,CSS,JavaScript">
+  <meta name="author"      content="LRodrigo">
+  <meta name="viewport"    content="width=device-width, initial-scale=1.0">
+  <!-- CSS -->
+  <!-- Todo arquivo de CSS deve ficar dentro da pasta css -->
+  <link rel="stylesheet" type="text/css" href="css/estilo-padrao.css">
+  <!--  -->
+  <link rel="stylesheet" type="text/css" href="css/estilo05.css"> 
+  
+  
+  <title>HTML 5 - Tabela-001</title>
+</head>
+<body>
+  <!-- Corpo do Documento -->
+  <div class="container">
+    <!-- Header da Pagina -->
+    <header id="pageHeader">
+      <div class="pageLogo">        
+        <img class="imgLogo" src="img/logo-esq.png">
+      </div>
+      <div class="pageLogoDir">
+        <img class="imgLogo" src="img/logo-dir.png">
+      </div>
+      <hgroup class="titleGroup">
+          <h2 class="titleHeader">Curso Básico de HTML5 e CSS3 - Trabalhando com Tabelas</h2>
+          <h3 class="titleHeader"> Prof. Luís Rodrigo</h3>
+      </hgroup>
+      <nav id="menuPrincipal">
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Post mais recentes</a></li>
+          <li><a href="#">Arquivo</a></li>
+          <li><a href="#">Contato</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section id="corpoDaPagina">
+        
+        <!-- 1o. Artigo --> 
+        <article>
+            <h4 class="subTitulo">Tabela Simples</h4>
+            <!-- Tabela --> 
+            <table>
+                <!-- 1a Linha da Tabela -->
+                <tr>
+                    <!-- Celula do tipo cabeçalho --> 
+                    <th>Primeiro Nome</th> <th>Segundo Nome</th> <th>Idade</th>
+                </tr>
+                <!-- 2a Linha --> 
+                <tr>
+                    <!-- Celula normal/default --> 
+                    <td>Luis</td><td>Gonçalves</td><td>44</td>
+                </tr>
+                <!-- 3a Linha --> 
+                <tr>
+                    <td>Simone</td><td>Sattler</td><td>44</td>
+                </tr>
+                <!-- 4a Linha --> 
+                <tr>
+                    <td>Sonia</td> <td>Oliveira</td> <td>65</td>
+                </tr>
+                <!-- 5a Linha --> 
+                <tr>
+                    <td>Suze</td> <td>Maria</td> <td>13</td>
+                </tr>
+                <!-- 6a Linha --> 
+                <tr>
+                    <td>Batata</td> <td>Rufles</td> <td>13</td>
+                </tr>
+                <!-- 7a Linha --> 
+                <tr>
+                    <td>Samantha</td> <td>Sattler</td> <td>16</td>
+                </tr>
+            </table>
+        </article>
+        
+        <!-- 2o. Artigo --> 
+        <article>
+            <h4 class="subTitulo">Tabela Zebrada</h4>        
+            <table class="zebrada">
+                <!-- 1a Linha da Tabela -->
+                <tr>
+                    <!-- Celula do tipo cabeçalho --> 
+                    <th>Primeiro Nome</th> 
+                    <th>Segundo Nome</th>
+                    <th>Idade</th>
+                </tr>
+                <!-- 2a Linha --> 
+                <tr>
+                    <!-- Celula normal/default --> 
+                    <td>Luis</td><td>Gonçalves</td><td>44</td>
+                </tr>
+                <!-- 3a Linha --> 
+                <tr>
+                    <td>Simone</td><td>Sattler</td><td>44</td>
+                </tr>
+                <!-- 4a Linha --> 
+                <tr>
+                    <td>Sonia</td> <td>Oliveira</td> <td>65</td>
+                </tr>
+                <!-- 5a Linha --> 
+                <tr>
+                    <td>Suze</td> <td>Maria</td> <td>13</td>
+                </tr>
+                <!-- 6a Linha --> 
+                <tr>
+                    <td>Batata</td> <td>Rufles</td> <td>13</td>
+                </tr>
+                <!-- 7a Linha --> 
+                <tr>
+                    <td>Samantha</td> <td>Sattler</td> <td>16</td>
+                </tr>
+            </table>
+        </article>
+        
+        
+    </section>
+    <footer id="pageFooter">
+      <small> &copy; 2020 – Lrodrigo </small>
+      <nav id="menuRodape">
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Sobre</a></li>
+          <li><a href="#">Termos de uso</a></li>
+          <li><a href="#">Política de privacidade</a></li>
+        </ul>
+      </nav>
+    </footer>
+
+  <!-- Fim div.container -->
+  </div>
+</body>
+</html>
